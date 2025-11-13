@@ -7,6 +7,48 @@ A full-stack real estate rental application built with Next.js, Express, Postgre
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-316192?style=flat&logo=postgresql)
 ![AWS](https://img.shields.io/badge/AWS-Cognito%20%7C%20S3-orange?style=flat&logo=amazon-aws)
 
+## 🎬 Screenshots
+
+### Landing Page
+
+![Landing Page](./screenshots/01-landing-page.png)
+_Modern landing page with property search and features showcase_
+
+### Property Search with Interactive Map
+
+![Search with Map](./screenshots/02-search-with-map.png)
+_Advanced search interface with real-time Mapbox integration showing properties on an interactive map_
+
+### Search with Filters
+
+![Search Filters](./screenshots/03-search-filters.png)
+_Comprehensive filtering options: location, price range, beds, baths, and property type_
+
+### Property Details
+
+![Property Details](./screenshots/04-property-details.png)
+_Detailed property view with image gallery, amenities, location map, and application form_
+
+### Manager Dashboard
+
+![Manager Dashboard](./screenshots/05-manager-dashboard.png)
+_Property manager dashboard for managing listings and viewing applications_
+
+### Add New Property
+
+![Add Property Form](./screenshots/06-add-property.png)
+_Intuitive property creation form with image upload and automatic geocoding_
+
+### Tenant Dashboard
+
+![Tenant Dashboard](./screenshots/07-tenant-dashboard.png)
+_Tenant dashboard showing favorites, current residences, and applications_
+
+### Applications Management
+
+![Applications](./screenshots/08-applications.png)
+_Application management interface with status tracking and review capabilities_
+
 ## ✨ Features
 
 ### For Property Managers
