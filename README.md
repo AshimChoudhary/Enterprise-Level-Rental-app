@@ -2,6 +2,10 @@
 
 A full-stack real estate rental application built with Next.js, Express, PostgreSQL, and AWS services. This platform enables property managers to list rental properties and tenants to search, apply, and manage their rentals.
 
+## Deployment
+Previously deployed on AWS EC2.
+Instance stopped to avoid ongoing cloud costs.
+
 ![Next.js](https://img.shields.io/badge/Next.js-15.1.6-black?style=flat&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat&logo=typescript)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-316192?style=flat&logo=postgresql)
